@@ -3,4 +3,7 @@ author:
    name: LuisRodrigoEspadaHidalgo
    email: luisrodrigoespadahidalgo@gmail.com
 remote_theme: "jekyll/minima@1e8a445"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
