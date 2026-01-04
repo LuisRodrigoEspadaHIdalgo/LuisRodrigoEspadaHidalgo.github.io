@@ -2,5 +2,5 @@ title: Blog de Ingeniería de Datos y otras yerbas
 author:
    name: LuisRodrigoEspadaHidalgo
    email: luisrodrigoespadahidalgo@gmail.com
-theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 
