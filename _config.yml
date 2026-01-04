@@ -1,3 +1,8 @@
 title: Blog de Ingeniería de Datos
 description: Datos, pipelines y tecnología
-theme: minimal-mistakes-jekyll
+url: "https://LuisRodrigoEspadaHidalgo.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
