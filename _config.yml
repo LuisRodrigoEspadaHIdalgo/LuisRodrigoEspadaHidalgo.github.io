@@ -2,7 +2,7 @@ title: Blog de Ingeniería de Datos
 description: Datos, pipelines y tecnología
 url: "https://LuisRodrigoEspadaHidalgo.github.io"
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "minima"
 
 plugins:
   - jekyll-include-cache
